@@ -1,0 +1,43 @@
+const foods = [
+  {
+    "id": 1,
+    "name": "Burger",
+    "category": "Fast Food",
+    "price": 150,
+    "isAvailable": true,
+    "imgSrc": "https://images.unsplash.com/photo-1606756790138-8e5f0be2f7a5?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "category": "Fast Food",
+    "price": 300,
+    "isAvailable": true,
+    "imgSrc": "https://images.unsplash.com/photo-1601924582971-4c9ecf6a03a8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biryani",
+    "category": "Rice Dish",
+    "price": 250,
+    "isAvailable": false,
+    "imgSrc": "https://images.unsplash.com/photo-1601050690597-95e9247d9d1f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Pasta",
+    "category": "Italian",
+    "price": 200,
+    "isAvailable": true,
+    "imgSrc": "https://images.unsplash.com/photo-1617196039897-7e6c7f6d8f8e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Ice Cream",
+    "category": "Dessert",
+    "price": 100,
+    "isAvailable": true,
+    "imgSrc": "https://images.unsplash.com/photo-1625949270063-4ad8b0865d2e?auto=format&fit=crop&w=600&q=80"
+  }
+];
+
