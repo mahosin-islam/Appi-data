@@ -1,4 +1,4 @@
-const foods = [
+ [
   {
     "id": 1,
     "name": "Burger",
@@ -39,5 +39,5 @@ const foods = [
     "isAvailable": true,
     "imgSrc": "https://images.unsplash.com/photo-1625949270063-4ad8b0865d2e?auto=format&fit=crop&w=600&q=80"
   }
-];
+]
 
